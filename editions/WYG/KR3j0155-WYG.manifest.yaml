@@ -30,8 +30,8 @@ assets:
   - {seq: 10, filename: KR3j0155_010-WYG.yaml, hash: 'sha256:2c78fc3c1c2b30c85fae25c756c4a655871925990b5cac714184edc660898ea9'}
   - {seq: 11, filename: KR3j0155_011-WYG.yaml, hash: 'sha256:a859dcef21a2d7e3cabb3493cce099bd69c237d648251fdbeb897b042501da77'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0155_000-WYG.markers.yaml, hash: 'sha256:8fb59eb35a19bf7c1958b0017dfeab733a7008a59260c1e7528045f601bd2d5b'}
-  - {seq: 1, role: markers, filename: assets/KR3j0155_001-WYG.markers.yaml, hash: 'sha256:22f0c8ac0a316cc50d18bcdeb1344313ded0a6507ce1d470b8b64835b3c9e09f'}
+  - {seq: 0, role: markers, filename: assets/KR3j0155_000-WYG.markers.yaml, hash: 'sha256:f9832824de698cd3fbbbd65baa0e8aff2d3685dd420e2099d1fefd5f81dc58a1'}
+  - {seq: 1, role: markers, filename: assets/KR3j0155_001-WYG.markers.yaml, hash: 'sha256:2bac8d5e128370a25d5dd8f9b85b594153f2d044adb132d94eab2701de877680'}
   - {seq: 2, role: markers, filename: assets/KR3j0155_002-WYG.markers.yaml, hash: 'sha256:3846f1a7c3ddf652ecffcf0895fee47525ac2763851fcc6fffad99d14c1dd0a0'}
   - {seq: 3, role: markers, filename: assets/KR3j0155_003-WYG.markers.yaml, hash: 'sha256:9f07edc2ae103a2bee97ebbaf7e800f6815ef662417078cb3140096d625a848a'}
   - {seq: 4, role: markers, filename: assets/KR3j0155_004-WYG.markers.yaml, hash: 'sha256:8f2a2c7a1493a401bb208f761b48c2a9b55e7b53050185cc029f128cedcde78a'}
@@ -39,8 +39,8 @@ assets:
   - {seq: 6, role: markers, filename: assets/KR3j0155_006-WYG.markers.yaml, hash: 'sha256:7a427cebf435953147c26eb58fb907e2d03e30831e86070825447993438f22a5'}
   - {seq: 7, role: markers, filename: assets/KR3j0155_007-WYG.markers.yaml, hash: 'sha256:2ed39d182d69dc7a25f34d1781db177e27ae3bdd14803dfcbe8953425ef483ac'}
   - {seq: 8, role: markers, filename: assets/KR3j0155_008-WYG.markers.yaml, hash: 'sha256:1c4f356108b6317eaba8be1d657b73fc3cb790a771901938f97bfda1a46897db'}
-  - {seq: 9, role: markers, filename: assets/KR3j0155_009-WYG.markers.yaml, hash: 'sha256:3dbdd3612918b055ac5a2d58f7bda76da3caf2372f06abfb9a5f92d8fca775f2'}
-  - {seq: 10, role: markers, filename: assets/KR3j0155_010-WYG.markers.yaml, hash: 'sha256:746fcba72333858b08d43d69cf12670aef28fb56d0dd562d537406c38dcbedb2'}
+  - {seq: 9, role: markers, filename: assets/KR3j0155_009-WYG.markers.yaml, hash: 'sha256:67fa61a166f8b05e37fd81df55f5e7459a1efe168928875d6284ab7e12e8bafc'}
+  - {seq: 10, role: markers, filename: assets/KR3j0155_010-WYG.markers.yaml, hash: 'sha256:304464b564d98528c8434ebf7720a584e01e82e9457632b76a5a4301598ce818'}
   - {seq: 11, role: markers, filename: assets/KR3j0155_011-WYG.markers.yaml, hash: 'sha256:cc90d3046589ca6aee8363a5fb106c2bbef2e927da5549e6dc5aecf2f80d0912'}
 table_of_contents:
 - ref:
@@ -173,4 +173,4 @@ table_of_contents:
   label: 題南園漫録後跋
   type: section
   level: 1
-hash: sha256:05c664235e716e135598aa695e0f7b59bb3da91cb7a1dfd208f98d53038daa9b
+hash: sha256:d2f5d74a462ccf859826209a7463a675102bec0da4d4138f406f8fa0632825b9
